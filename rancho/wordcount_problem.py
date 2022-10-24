@@ -17,7 +17,7 @@ class WordCount:
 
     def _get_word_count(self):
         """
-            # Explanation of code
+            # Explanation of problem 1
             1. Open file
             2. Read line by line
             3. Find all words in line without punctuation
@@ -55,7 +55,7 @@ class WordCount:
 
     def _get_word_count_improved(self):
         """
-            # Explanation of code
+            # Explanation of problem 2
             1. Open file
             2. Read line by line
             3. remove punctuation from line and make it lowercase
@@ -90,7 +90,7 @@ class WordCount:
 
     def get_highest_count(self):
         """
-            # Explanation of code
+            # Explanation of problem 3
             1. Get word count
             2. Set highest count to 0
             3. Set highest count word to empty string
